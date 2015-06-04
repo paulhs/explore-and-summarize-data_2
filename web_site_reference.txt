@@ -1,0 +1,2 @@
+http://www.calwineries.com/learn/wine-chemistry
+http://rmarkdown.rstudio.com/authoring_basics.html
